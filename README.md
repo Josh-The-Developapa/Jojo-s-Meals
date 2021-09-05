@@ -1,1 +1,1 @@
-Massive food order application, more complex functionality coming soon 
+Massive food order application, built for experimental purposes 
