@@ -1,1 +1,2 @@
-Massive food order application, built for experimental purposes 
+# Jojos-Meals
+Online Food delivery service built using React JS, and Firebase
